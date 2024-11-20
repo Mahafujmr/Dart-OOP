@@ -11,6 +11,8 @@ to make encapsulation class
 to make data model
  */
 
+
+
 /*
 /// Dart encapsulation syntax
 class example{
@@ -42,8 +44,26 @@ class example{
 // dart - public or private
 // encapsulation use = setter and getter
 
-// first private variable set then private variable get
+// first private variable set ,  then private variable get
 // set set(variable name)= set setAge
 // get get(variable name) = get getAge // then return
 
  */
+
+
+/*
+// setter
+set set(variable name ) ( parameter set ) {
+private variable = parameter variable name ;
+ */
+
+
+/*
+// getter
+get get(variable name ) {
+return (private variable) ;
+ */
+
+// setter and getter all access use to object
+// other page use and first set data
+// then print get data
