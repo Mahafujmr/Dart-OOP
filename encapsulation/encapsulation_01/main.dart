@@ -1,7 +1,13 @@
 import 'example.dart';
 
 void main(){
-  example getter =example();
-  getter.setAge= 22;
-  print(getter.getAge);
+  // create object
+  example getter =example(); // object name is getter
+
+  // first set
+  getter.setAge= 22; // object.set(variable name) = new value add;
+  // getter.setAge
+  // second get
+  print(getter.getAge); // print(object.get(variable name) ) ;
+  // getter.getAge
 }
