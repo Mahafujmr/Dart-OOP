@@ -35,7 +35,7 @@ void main(){
 
   //dog = class // Dog = object
   dog Dog =dog();
-  Dog.eat(); // acce
+  Dog.eat(); //
   Dog.makeSound();
 
 
